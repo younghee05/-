@@ -1,0 +1,1 @@
+SELECT * FROM study.수강등록현황;

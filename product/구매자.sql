@@ -1,0 +1,1 @@
+SELECT * FROM product.구매자;

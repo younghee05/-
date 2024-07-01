@@ -1,0 +1,1 @@
+SELECT * FROM study.study_sample;

@@ -1,0 +1,1 @@
+SELECT * FROM study.프로그램;
