@@ -25,8 +25,9 @@ insert into student_tb
 	(student_id, phone, email, introduce, student_name, admission_date)
 values
 	(0, "010-1234-5678", "1234hh@gmail.com", null, "김익명", now());
-    
+
 insert into student_tb
+	# () 생략
 values
-	(0, "김익명", "010-1234-5678", "1234hh@gmail.com", null, now());
+	(0, "김영희", "010-1234-5678", "1234hh@gmail.com", null, now());
     

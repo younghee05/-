@@ -1,0 +1,1 @@
+SELECT * FROM study.sample_book_tb;

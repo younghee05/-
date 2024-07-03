@@ -79,7 +79,7 @@ select
 from
 	student_tb
 where
-	student_name like "이%"; 
+	student_name like "이%";                   
     
 select
 	*
