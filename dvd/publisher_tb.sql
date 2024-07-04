@@ -1,0 +1,1 @@
+SELECT * FROM dvd_db.publisher_tb;
