@@ -1,0 +1,1 @@
+SELECT * FROM springboot_db.size_tb;

@@ -1,0 +1,1 @@
+SELECT * FROM springboot_db.computer_tb;

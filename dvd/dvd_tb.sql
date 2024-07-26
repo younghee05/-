@@ -56,7 +56,6 @@ limit 10, 10; # 갯 수 예) (id)10부터 10개를 출력해라
 -- 		dvd_id
 
 # join 을 써서 똑같은 값 3개 출력
-
 insert into dvd_register_tb
 select
 	0,
